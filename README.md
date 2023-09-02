@@ -10,7 +10,7 @@ Instructions d'installation
 Clonez ce projet sur votre machine en utilisant la commande suivante :
 bash
 Copy code
-git clone https://github.com/mrcryptsie/projet_perso_ifri_cv_en_ligne.git
+git clone https://github.com/makogretice/Projet_Dev_web_Ifri.git
 Accédez au répertoire du projet :
 bash
 Copy code
